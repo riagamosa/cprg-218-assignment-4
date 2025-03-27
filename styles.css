@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+h1, h2, p{
+    text-align: center;
+    padding: 1rem;
+}
+
+#joke{
+    background-color: lavender;
+    border: 2px solid purple;
+    margin: 1rem;
+}
+
+section{
+    text-align: center;
+}
+
+button{
+    justify-items: center;
+    text-align: center;
+    padding: 0.5rem;
+    margin: 1rem;
+}
+
+button:hover{
+    background-color: lavender;
+}
